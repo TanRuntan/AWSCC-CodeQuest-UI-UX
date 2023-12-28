@@ -11,3 +11,15 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 Ready to include your output for **Day 2**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
+
+**Works**
+
+<img src="C:\AWS UI_UX\AWSCC-CodeQuest-UI-UX\works\day 1\Screenshot 2023-12-28 185224.png">
+
+<img src="C:\AWS UI_UX\AWSCC-CodeQuest-UI-UX\works\day 2\Screenshot 2023-12-28 185224.png">
+
+<img src="C:\AWS UI_UX\AWSCC-CodeQuest-UI-UX\works\day 2\Screenshot 2023-12-28 185237.png">
+
+<img src="C:\AWS UI_UX\AWSCC-CodeQuest-UI-UX\works\day 2\Screenshot 2023-12-28 185248.png">
+
+
